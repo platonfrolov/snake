@@ -39,5 +39,5 @@ build/
 
 mvnw
 mvnw.cmd
-.idea
+.idea/
 pom.xml
